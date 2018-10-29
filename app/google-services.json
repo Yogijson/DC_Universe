@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "132903853748",
+    "firebase_url": "https://dc-universe-15e57.firebaseio.com",
+    "project_id": "dc-universe-15e57",
+    "storage_bucket": "dc-universe-15e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132903853748:android:39c78a870ba5ed0e",
+        "android_client_info": {
+          "package_name": "com.example.yogi.dc_universe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132903853748-2j0e8kkiehl1ps56gtcpg37na9i0ajq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpZuPumOrnsYbhN_HShMUvTeRy4dKXFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
